@@ -76,6 +76,13 @@ pip install pyserial
 ```python
 arduinoPort = '/dev/cu.usbmodem1411'
 ```
+
+* If you are using python2, Delete .encode() out of the lines 32,36,40,44 
+
+```python
+ser.write("0,0\n")
+```
+
 * Run the Python script on terminal
 
 ```shell
