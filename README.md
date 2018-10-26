@@ -8,7 +8,7 @@ This project by [Aarón Montoya-Moraga](http://montoyamoraga.io/) consists of a 
 
 Modified by [Sebastian Morales](https://www.adorevolution.com/) and [Tiri Kananuruk](http://xxx.tiri.xxx/)
 
-Developed for [Sam Lavigne](http://lav.io/)'s [Scrapism](https://github.com/antiboredom/sfpc-scrapism) class, at [School for Poetic Computation](http://sfpc.io/), Fall 2018.
+Developed for [CW&T](https://cwandt.com/)'s [Hardware](https://github.com/teejers/cwt-hardware-sfpc) and [Sam Lavigne](http://lav.io/)'s [Scrapism](https://github.com/antiboredom/sfpc-scrapism) class, at [School for Poetic Computation](http://sfpc.io/), Fall 2018.
 
 ## Environment
 
