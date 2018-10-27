@@ -1,6 +1,6 @@
 # servo_camera.py
 # by aaron montoya-moraga
-# november 2017
+# modified by Sebastian and Tiri for SFPC fall 2018
 
 # script for controlling servo motors with arduino
 # via python script with pyserial module
